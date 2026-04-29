@@ -7,6 +7,3 @@ updated: 2026-04-28
 
 ## 레퍼런스
 - [[reliable-references|공식 문서 링크 모음]] ← "reliable reference 리스트" 대신 여기 참고
-
-## 팀 컨벤션
-- [[team-conventions|팀 컨벤션 — GenesisNest]]
