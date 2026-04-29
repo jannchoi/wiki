@@ -9,8 +9,6 @@ verified-at: 2026-04-28
 
 # Reliable References — 공식 문서 링크 모음
 
-> Claude Code에 "reliable reference 리스트 작성해줘" 대신 이 페이지를 참고.
-> References 섹션에는 여기 있는 링크만 사용한다.
 
 ---
 
@@ -100,4 +98,3 @@ verified-at: 2026-04-28
 ---
 
 ## References
-- 이 페이지 자체가 레퍼런스 목록

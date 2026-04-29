@@ -5,9 +5,6 @@ updated: 2026-04-29
 
 # App Wiki — 인덱스
 
-> 플랫폼 정책, 라이브러리, 공통 패턴 등 공개 가능한 research.
-> 회사 프로젝트 관련 내용 → `local/` 폴더 (비공개)
-
 ## iOS / Android
 <!-- research 페이지 추가 시 여기에 -->
 
