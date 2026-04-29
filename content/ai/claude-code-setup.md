@@ -28,13 +28,9 @@ verified-at: 2026-04-28
 
 ---
 
-## Hooks (`~/.claude/hooks/`)
+## Hooks
 
-| Hook | 파일 | 시점 | 기능 |
-|---|---|---|---|
-| SessionStart | `log-session.sh` | 세션 시작 시 | 디렉토리 + 시각을 Obsidian vault usage-log에 기록 |
-
-로그 저장 위치: `~/Obsidian Vault/raw/usage-log/YYYY-MM-DD.md`
+현재 설정된 hook 없음.
 
 ---
 
@@ -44,17 +40,15 @@ verified-at: 2026-04-28
 {
   "enabledPlugins": {
     "superpowers@claude-plugins-official": true
-  },
-  "hooks": {
-    "SessionStart": [
-      {
-        "matcher": "",
-        "hooks": [{ "type": "command", "command": "/Users/jeongan-gn/.claude/hooks/log-session.sh" }]
-      }
-    ]
   }
 }
 ```
+
+## MCP Servers
+
+| 서버 | 커맨드 | 용도 |
+|---|---|---|
+| `wiki` | `qmd mcp` | `~/Obsidian Vault/wiki` 전체 시맨틱 검색 |
 
 ---
 
@@ -78,7 +72,6 @@ verified-at: 2026-04-28
 ---
 
 ## 관련 페이지
-- [[wiki-llm|Wiki LLM 개념]]
 - [[../index|전체 인덱스]]
 
 ## References

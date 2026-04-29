@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "GenesisNest Wiki",
+    pageTitle: "Jann Dev Wiki",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
